@@ -1,0 +1,17 @@
+{
+    "ROLES": {
+        "1040108962785267753" : { 
+            "name" : "Admin",
+            "COMMANDS":{
+                "whitelist" : true,
+                "restart" : true,
+                "kick" : true    
+            },
+            "SERVERS":[
+                "screen_name_server_1",
+                "screen_name_server_2",
+                "screen_name_server_3" 
+            ]
+        }
+    }            
+}
